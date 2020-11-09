@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **tkinter**👀
 
-- 📝 I regulary write articles on [https://siumhossain.blogspot.com/](https://siumhossain.blogspot.com/)💌
+- 📝 I regulary write articles on [https://siumhossain.blogspot.com/](https://siumhossain.blogspot.com/)✍️
 
 - 💬 Ask me about **Anything(bash,python,linux,automation,web scrapping,data visualization)🗣️**
 
