@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sium.hossain@yahoo.com**💌
 
-- ⚡ Fun fact **I am now watching supernatural series**💀
+- ⚡ Fun fact **I am now watching supernatural series**👹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
