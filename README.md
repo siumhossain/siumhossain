@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Django_imageBookmark_application](https://github.com/siumhossain/django_image_bookmark)😤
 
 
-- 🌱 I’m currently learning **Everything**🔥
+- 🌱 I’m currently learning **tkinter**🔥
 
 - 👯 I’m looking to collaborate on **django_project**🤝
 
