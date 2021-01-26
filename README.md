@@ -9,19 +9,19 @@
 - 🔭 I’m currently working on [Django_imageBookmark_application](https://github.com/siumhossain/django_image_bookmark)😤
 
 
-- 🌱 I’m currently learning **tkinter**🔥
+- 🌱 I’m currently learning **Electron js**🔥
 
 - 👯 I’m looking to collaborate on **django_project**🤝
 
-- 🤝 I’m looking for help with **tkinter**👀
+- 🤝 I’m looking for help with **django payment gateway**👀
 
 - 📝 I regulary write articles on [https://siumhossain.blogspot.com/](https://siumhossain.blogspot.com/)✍️
 
-- 💬 Ask me about **Anything(bash,python,linux,automation,web scrapping,data visualization)🗣️**
+- 💬 Ask me about **Anything(bash,python,linux,automation,web scrapping,web_development,data visualization)🗣️**
 
 - 📫 How to reach me **sium.hossain@yahoo.com**💌
 
-- ⚡ Fun fact **I am now watching supernatural series**👹
+- ⚡ Fun fact **I am now watching Mentalist series**😵
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
