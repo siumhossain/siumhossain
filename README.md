@@ -6,10 +6,10 @@
 
 
 
-- 🔭 I’m currently working on [Django_imageBookmark_application](https://github.com/siumhossain/django_image_bookmark)😤
+- 🔭 I’m currently working on [Random value genarate from dice](https://github.com/siumhossain/DIce_flutter-practice.git)😤
 
 
-- 🌱 I’m currently learning **Electron js**🔥
+- 🌱 I’m currently learning **Flutter**🔥
 
 - 👯 I’m looking to collaborate on **django_project**🤝
 
