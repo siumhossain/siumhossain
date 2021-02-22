@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Random value genarate from dice](https://github.com/siumhossain/DIce_flutter-practice.git)😤
+- 🔭 I’m currently working on [A quiz application by flutter](https://github.com/siumhossain/quizzler_app_flutter)😤
 
 
 - 🌱 I’m currently learning **Flutter**🔥
