@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [A quiz application by flutter](https://github.com/siumhossain/quizzler_app_flutter)😤
 
 
-- 🌱 I’m currently learning **Flutter**🔥
+- 🌱 I’m currently learning **Flutter**📱
 
 - 👯 I’m looking to collaborate on **django_project**🤝
 
