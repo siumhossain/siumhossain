@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [A quiz application by flutter](https://github.com/siumhossain/quizzler_app_flutter)😤
+- 🔭 I’m currently working on [A weather app by flutter](https://github.com/siumhossain/weatherApp_flutter)😤
 
 
 - 🌱 I’m currently learning **Flutter**📱
