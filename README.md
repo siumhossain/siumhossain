@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [A weather app by flutter](https://github.com/siumhossain/weatherApp_flutter)😤
 
 
-- 🌱 I’m currently learning **Flutter**📱
+- 🌱 I’m currently learning **Flutter & FastApi**📱
 
 - 👯 I’m looking to collaborate on **django_project**🤝
 
