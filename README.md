@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **django payment gateway**👀
 
-- 📝 I regulary write articles on [https://siumhossain.blogspot.com/](https://siumhossain.blogspot.com/)✍️
+- 📝 I regulary write articles on [https://dev.to/siumhossain](https://dev.to/siumhossain)✍️
 
 - 💬 Ask me about **Anything(bash,python,linux,automation,web scrapping,web_development,data visualization)🗣️**
 
